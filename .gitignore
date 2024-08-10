@@ -50,4 +50,16 @@ sysinfo.txt
 /Assets/Plugins/Editor/CrashlyticsSettings.cs.meta
 /Assets/Plugins/Editor/CrashlyticsSettings.cs
 
+# User-specific files
+.vs/
+.vsconfig
+UserSettings/
+
+# Logs
+Logs/
+
+# Library
+Library/
 Temp/
+obj/
+
