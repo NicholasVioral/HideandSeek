@@ -1,0 +1,4 @@
+repository "HideandSeekTest@griffanocurley@cloud"
+  path "/"
+    br "/main"
+    co "/main"
